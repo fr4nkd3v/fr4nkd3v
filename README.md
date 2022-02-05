@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there 👋, I'm Frank, Frontend Web Developer 👨‍💻 </h2>
+## Hi there 👋, I'm Frank, Frontend Web Developer 👨‍💻
 ![alt text](https://github.com/frank7dev/frank7dev/blob/main/devgif.gif?raw=true)
 
 <!--
