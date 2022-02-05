@@ -1,6 +1,8 @@
 <h2 align='center'> Hi there 👋, I'm Frank, Frontend Web Developer 👨‍💻 </h2>
+<div>
 <div align='center'>
   ![alt text](https://github.com/frank7dev/frank7dev/blob/main/devgif.gif?raw=true)
+</div>
 </div>
 
 <!--
