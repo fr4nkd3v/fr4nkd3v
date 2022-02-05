@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Frank, Frontend Web Developer 👨‍💻
 
-!(developer)[https://github.com/frank7dev/frank7dev/blob/main/devgif.gif?raw=true]
+![alt text](https://github.com/frank7dev/frank7dev/blob/main/devgif.gif?raw=true)
 
 <!--
 **frank7dev/frank7dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
