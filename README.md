@@ -2,7 +2,7 @@
 
 ![dev](https://github.com/frank7dev/frank7dev/blob/main/devgif.gif?raw=true)
 
-I am currently learning **JavaScript** in depth and **React.js**.
+I am currently learning **JavaScript** and **PHP** in depth.
 <!--
 **frank7dev/frank7dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
