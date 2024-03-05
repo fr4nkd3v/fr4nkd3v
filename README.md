@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Frank, Frontend Web Developer 👨‍💻
+## Hi there 👋, I'm Frank, FullStack Web Developer 👨‍💻
 
 ![dev](https://github.com/frank7dev/frank7dev/blob/main/devgif.gif?raw=true)
 
-I am currently learning **JavaScript** and **PHP** in depth.
+I am currently specializing in **JavaScript** and **Node** in depth.
 <!--
 **frank7dev/frank7dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
